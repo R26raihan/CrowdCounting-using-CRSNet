@@ -1,4 +1,4 @@
-# CrowdCounting-using-CRSNet
+# CrowdCounting-using-CSRNet
 
 ![image](https://github.com/user-attachments/assets/08c008e5-815e-43a9-b352-3ee32a8d811f)
 
